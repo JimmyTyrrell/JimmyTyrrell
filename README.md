@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @JimmyTyrrell, a former postal worker who is revisiting their childhood interests in coding and computer science, and initiating a career shift.
+- 👋 Hi, I’m @JimmyTyrrell, a Computer Science student at University of the People.
 - 👀 I’m interested in machine learning and cybersecurity, and in improving social media to better accord with human interests over commercial ones.
-- 🌱 I’m currently learning Python on various platforms, and taking various courses in IT, Cybersecurity, Data Science, Machine Learning, and front-end design.
+- 🌱 I’m currently learning about hardware logic and logical architecture in university, and taking various courses in IT, Cybersecurity, Data Science, Machine Learning, and front-end design on other platforms.
         I'm active on Sololearn, Simplilearn, Codecademy, and Coursera. 
-- 💞️ At the moment I don't think I'm ready for any major collaborations. My coding skills are still fairly elementary.
-        I've got a couple class projects I'm working on that I hope I'll be able to develop into something useful for the general public, but I haven't put anything on
-        GitHub yet.
+- 💞️ I am finally at a point where I feel ready to contribute to some team projects.
+        My Java is ok, my basic Python is good, and I have looked into Numpy, Pandas, MatPlotLib, and SKLearn via the Sololearn courses on Data Science and Machine Learning.
 - 📫 How to reach me ...
         
         -https://www.linkedin.com/in/jimmyraytyrrell/
